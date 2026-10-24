@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prg20/static/css/main.ba24b816.css",
+    "main.js": "/prg20/static/js/main.f05de5a4.js",
+    "index.html": "/prg20/index.html",
+    "main.ba24b816.css.map": "/prg20/static/css/main.ba24b816.css.map",
+    "main.f05de5a4.js.map": "/prg20/static/js/main.f05de5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba24b816.css",
+    "static/js/main.f05de5a4.js"
+  ]
+}
